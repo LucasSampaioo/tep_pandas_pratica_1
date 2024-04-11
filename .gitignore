@@ -1,0 +1,12 @@
+# Arquivos de compilação Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais Python (por exemplo, criados com virtualenv ou venv)
+venv/
+env/
+.venv/
+
+# Arquivos de dependências Python (gerados pelo pip)
+/requirements.txt
+/requirements-dev.txt
